@@ -1,0 +1,7 @@
+#include <stdio.h>
+int main()
+{
+	int a=1,b=1,z;
+	z= a+b;
+	printf("z= %d\n", z);
+}
