@@ -1,7 +1,9 @@
 #include <stdio.h>
 int main()
 {
-	int a=1,b=1,z;
+	int a=1,b=1,z, c=4,d=3,x;
 	z= a-b;
 	printf("z= %d\n", z);
+	x= c-d;
+	printf("x= %d\n", x);
 }
