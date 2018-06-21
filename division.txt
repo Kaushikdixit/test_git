@@ -4,4 +4,5 @@ int main()
 	int a=10,b=2,z;
 	z= a/b;
 	printf("z= %d\n", z);
+	printf("a=%d, b=%d\n",a,b);
 }
